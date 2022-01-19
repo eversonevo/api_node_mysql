@@ -4,7 +4,6 @@
         "MYSQK_PASSWORD":"",
         "MYSQL_DATABASE":"epiz_30856284_ecommerce",
         "MYSQL_HOST":"sql312.epizy.com",
-        //"MYSQL_PORT":5432,
         "JWT_KEY":"chave_segredo"
     }
 }
