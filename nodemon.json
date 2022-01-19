@@ -1,9 +1,9 @@
 {
     "env":{
-        "MYSQL_USER":"root",
-        "MYSQK_PASSWORD":"root",
-        "MYSQL_DATABASE":"ecommerce",
-        "MYSQL_HOST":"127.0.0.1",
+        "MYSQL_USER":"rest_api_evo",
+        "MYSQK_PASSWORD":"rest_api_evo",
+        "MYSQL_DATABASE":"rest_api_evo",
+        "MYSQL_HOST":"https://db4free.net/",
         "MYSQL_PORT":3306,
         "JWT_KEY":"chave_segredo"
     }
