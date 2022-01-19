@@ -1,10 +1,10 @@
 {
     "env":{
-        "MYSQL_USER":"rest_api_evo",
-        "MYSQK_PASSWORD":"rest_api_evo",
-        "MYSQL_DATABASE":"rest_api_evo",
-        "MYSQL_HOST":"https://db4free.net/",
-        "MYSQL_PORT":3306,
+        "MYSQL_USER":"epiz_30856284",
+        "MYSQK_PASSWORD":"",
+        "MYSQL_DATABASE":"epiz_30856284_ecommerce",
+        "MYSQL_HOST":"sql312.epizy.com",
+        //"MYSQL_PORT":5432,
         "JWT_KEY":"chave_segredo"
     }
 }
