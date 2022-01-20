@@ -1,9 +1,10 @@
 {
     "env":{
         "MYSQL_USER":"epiz_30856284",
-        "MYSQK_PASSWORD":"",
-        "MYSQL_DATABASE":"epiz_30856284_ecommerce",
+        "MYSQK_PASSWORD":"417G0sQLGFE",
+        "MYSQL_DATABASE":"epiz_30856284_XXX",
         "MYSQL_HOST":"sql312.epizy.com",
+        "MYSQL_PORT": 3306,
         "JWT_KEY":"chave_segredo"
     }
 }
