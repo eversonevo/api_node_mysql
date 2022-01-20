@@ -9,4 +9,6 @@ var pool = mysql.createPool({
     "port": process.env.MYSQL_PORT,
 });
 
+console.log("eee"+pool.host);
+
 exports.pool = pool;
