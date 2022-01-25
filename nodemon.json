@@ -1,9 +1,9 @@
 {
     "env":{
-        "MYSQL_USER":"epiz_30856284",
-        "MYSQK_PASSWORD":"417G0sQLGFE",
-        "MYSQL_DATABASE":"epiz_30856284_ecommerce",
-        "MYSQL_HOST":"sql312.epizy.com",
+        "MYSQL_USER":"u903973099_api_teste_bd",
+        "MYSQL_PASSWORD":"api_teste_BD_2021",
+        "MYSQL_DATABASE":"u903973099_api_teste_bd",
+        "MYSQL_HOST":"sql719.main-hosting.eu",
         "MYSQL_PORT": 3306,
         "JWT_KEY":"chave_segredo"
     }
